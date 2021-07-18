@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://prometheus.io/
+HostUrl=https://github-releases.githubusercontent.com/9524057/715b1a00-7d9f-11eb-8cfa-533c911cfe9a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210718T211921Z&X-Amz-Expires=300&X-Amz-Signature=9f8644cb3aa2858b05ab894f8883ea06185ceb0a62c2ed39ecf4dfab1c7c3697&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=9524057&response-content-disposition=attachment%3B%20filename%3Dnode_exporter-1.1.2.linux-amd64.tar.gz&response-content-type=application%2Foctet-stream
